@@ -3,7 +3,7 @@ import sys
 import transformers
 import coremltools
 
-coremltools.libmilstoragepython
+# coremltools.libmilstoragepython
 
 
 # model_name = "distilbert-base-uncased-finetuned-sst-2-english"
